@@ -1,0 +1,78 @@
+\documentclass[12 pt,a4paper]{report}
+
+\usepackage{amstext}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+\usepackage{amssymb,amsthm,amsmath,amscd}     
+\usepackage{latexsym}                         
+%\usepackage{enumerate}
+\usepackage[ngerman]{babel}
+\usepackage[latin1]{inputenc}
+%\usepackage{verbatim} fuer Quelltexteingabe
+
+\author{}
+\title{}
+
+%Befehle Block--------------------------
+%\newcommand{\qed}{\hfill$\square$}
+
+%---------------------------------------
+\begin{document}
+\setlength\parindent{0pt}
+
+%Titel Seite-----------------------------
+\begin{titlepage}
+\begin{center}
+
+\vspace*{1.0cm}
+\huge
+\textsc{\bf{LED-Lenkrad zur Visualisierung der Drehzahl\\
+		-\\
+    HCI Studio WS 2014/15}}
+
+\vspace*{1.0cm}
+\Large
+\textsc{Seminararbeit}
+
+\vspace*{3.0cm}
+\textsc{
+\normalsize{von} \\[0.5\baselineskip]
+{\large \ Stefan Vikoler}
+}
+
+\vspace*{3.0cm}
+\textsc{
+\normalsize{Betreuung:\\
+Univ.-Prof. Dr. Mag. Manfred Tscheligi\\
+Dr. Dipl.-Ing. Alexander Meschtscherjakov}
+}
+
+\vspace*{1.0cm}
+\textsc{
+\normalsize{Universit\"at Salzburg \\
+Fachbereich Computerwissenschaften\\
+Jakob-Haringer-Straﬂe 2\\
+A-5020 Salzburg\\
+Austria}
+}
+
+\end{center}
+
+\end{titlepage}
+
+%Include Block---------------------------
+\include{abstract}
+\tableofcontents
+\include{introduction}
+\include{sota}
+\include{concept}
+\include{design}
+\include{evaluation}
+\include{reflexion}
+
+%----------------------------------------
+\bibliographystyle{plain}
+\nocite{*}
+\bibliography{literatur}
+%----------------------------------------
+\end{document}

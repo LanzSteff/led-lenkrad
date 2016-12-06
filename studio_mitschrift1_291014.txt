@@ -1,0 +1,27 @@
+Lenkrad kritisch betrachtet
+idee 1:
+- gas geben: lenkrad von sich weg drücken (schneller) oder zu sich her ziehen (langsamer)
+- bremsen: hebel hinter dem lenkrad
+- lenken: pedal links und rechts
+
+idee 2:
+- gas geben: joystick vor
+- bremsen: joystick zurück
+- lenken: joystick links und rechts
+- blinken, scheibe wischen: mit tasten am joystick
+
+idee 3:
+- touchpad an der vorderseite des Lenkrads
+- blinker links/rechts: Pfeil links/rechts zeichnen
+- Radio sound aufdrehen/abdrehen: pfeil nach oben/unten zeichnen
+- Radio an/aus: "S" zeichnen
+- Klimaanlage an/aus: "C" zeichnen
+- Klimaanlage Temperatur hoch/niedrig stellen: "H"/"N" zeichnen
+- ....
+
+idee 4:
+- steuerung ähnlich panzer
+- zwei hebel links und rechts
+- links lenken: linker hebel nach hinten, rechter hebel nach vorne
+- rechts lenken: linker heben nach vorne, rechter hebel nach hinten
+- bremsen: 

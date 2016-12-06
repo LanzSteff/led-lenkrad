@@ -1,0 +1,12 @@
+peak sichtbarlassen für gewisse zeit (als einzelnen punkt)
+equalizer
+
+wie rpm nadel
+tausender schritte sichtbar machen
+
+drehung von lenkrad miteinbeziehen
+
+
+nächsten 2 wochen fertig implementieren
+am 28.01. fertig präsentieren (unten treffen)
+am 29.01. oder 30.01. studie durchführen -> Forschungsfrage überlegen
